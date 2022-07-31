@@ -1,5 +1,5 @@
-# React/Redux/Router Starter Project
+# My Diner Menu Projec
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+> my code for the project
 
 *Fork from [es6-webpack2-starter](https://github.com/micooz/es6-webpack2-starter)*
